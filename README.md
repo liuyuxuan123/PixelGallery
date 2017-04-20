@@ -7,7 +7,8 @@ Color and Animation !!!!
 * ~~Resize~~!
 * ~~Resize with animation~~
 * ~~Big size to small size -> blank canavas~~
-* Add Grid,Undo function !!!!
+* ~~Add Grid,Undo function !!!! ~~
+* Color Picker
 * Well_orgnized tableview cell
 * Prepare for segue
 * Samall size to big size -> zoom animation
